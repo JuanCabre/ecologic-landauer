@@ -1,0 +1,7 @@
+name: ecologic-computing
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
